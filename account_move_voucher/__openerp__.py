@@ -20,5 +20,5 @@ Creates a method to pay moves with residual
     'installable': True,
     'name': 'Account Move Voucher',
     'test': [],
-    'version': '8.0.1.2.0',
+    'version': '9.0.1.0.0',
  }

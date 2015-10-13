@@ -20,7 +20,7 @@
 ##############################################################################
 {
     'name': 'Project and Analytic Account integration impprovements',
-    'version': '8.0.1.0.0',
+    'version': '9.0.1.0.0',
     'category': 'Projects & Services',
     'sequence': 14,
     'summary': '',

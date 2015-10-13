@@ -20,7 +20,7 @@
 ##############################################################################
 {
     'name': 'Calendar State',
-    'version': '8.0.1.0.0',
+    'version': '9.0.1.0.0',
     'category': 'Project Management',
     'description': """
 Calendar State

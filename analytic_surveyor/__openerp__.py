@@ -20,7 +20,7 @@
 ##############################################################################
 {
     'name': 'Analytic Surveyor',
-    'version': '8.0.1.0.0',
+    'version': '9.0.1.0.0',
     'category': 'Analytic',
     'sequence': 14,
     'summary': '',

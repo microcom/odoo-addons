@@ -15,4 +15,4 @@ Account Voucher Pop Up Print
     'installable': True,
     'name': 'Account Voucher Pop Up Print',
     'test': [],
-    'version': '8.0.1.2.0'}
+    'version': '9.0.1.0.0'}

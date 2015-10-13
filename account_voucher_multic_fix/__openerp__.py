@@ -36,4 +36,4 @@ Account Voucher Multi Company Fixes
     'installable': True,
     'name': 'Account Voucher Multi Company Fixes',
     'test': [],
-    'version': '8.0.1.2.0'}
+    'version': '9.0.1.0.0'}

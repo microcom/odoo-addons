@@ -20,7 +20,7 @@
 ##############################################################################
 {
     'name': 'User/partner is employee',
-    'version': '8.0.1.0.0',
+    'version': '9.0.1.0.0',
     'category': 'Hidden',
     'sequence': 14,
     'summary': '',

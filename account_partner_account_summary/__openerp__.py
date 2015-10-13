@@ -20,7 +20,7 @@
 ##############################################################################
 {
     'name': 'Partner Account Summary',
-    'version': '8.0.1.0.1',
+    'version': '9.0.1.0.0',
     'description': """Partner Account Summary""",
     'category': 'Aeroo Reporting',
     'author': 'ADHOC SA',

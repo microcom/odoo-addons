@@ -20,7 +20,7 @@
 ##############################################################################
 {
     'name': 'Statement Aeroo Report',
-    'version': '8.0.1.0.0',
+    'version': '9.0.1.0.0',
     'category': 'Aeroo Reporting',
     'sequence': 14,
     'summary': '',

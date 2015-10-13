@@ -20,7 +20,7 @@
 ##############################################################################
 {
     'name': 'Product Stock Location',
-    'version': '8.0.1.0.0',
+    'version': '9.0.1.0.0',
     'category': 'Sales Management',
     'sequence': 14,
     'summary': 'Sales, Product, Category, Clasification',

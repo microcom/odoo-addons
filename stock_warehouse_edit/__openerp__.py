@@ -20,7 +20,7 @@
 ##############################################################################
 {
     'name': 'Stock Warehouse Editable',
-    'version': '8.0.1.0.0',
+    'version': '9.0.1.0.0',
     'category': 'Stock Warehouse Editable',
     'sequence': 14,
     'summary': '',
