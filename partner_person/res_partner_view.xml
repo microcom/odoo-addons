@@ -20,7 +20,7 @@
                         <field name="lastname" placeholder="Last Name" attrs="{'required':[('is_company','=',False)]}"/>
                     </div>
                 </field>            
-                <page string="Contacts" position="after">
+                <xpath expr="//field[@name='child_ids']/.." position="after">
                     <page string="Personal Information" attrs="{'invisible':[('is_company','=',True)]}">
                         <group>
                             <group>
@@ -52,7 +52,7 @@
                             <field name="mother_child_ids" context="{'default_mother_id':id,'from_mother':True,'is_person':True}" attrs="{'invisible':[('sex','!=','F')]}" domain="[('is_company','=',False),('mother_id','=',False),('id','!=',id)]" widget="many2many"/>
                         </group>
                     </page>                 
-                </page>                      
+                </xpath>
             </field>
         </record>
 

@@ -20,7 +20,7 @@
 ##############################################################################
 {
     'name': 'Partners Persons Management',
-    'version': '9.0.1.0.0',
+    'version': '9.0.0.0.0',
     'category': 'Tools',
     'sequence': 14,
     'summary': '',
@@ -45,8 +45,8 @@ Openerp consider a person those partners that have not "is_company" as true, now
 
 It also adds a configuration menu for choosing which fields do you wanna see.
     """,
-    'author':  'ADHOC SA',
-    'website': 'www.adhoc.com.ar',
+    'author':  'ADHOC SA and Microcom',
+    'website': 'www.adhoc.com.ar, www.microcom.ca',
     'images': [
     ],
     'depends': [
